@@ -1,0 +1,8 @@
+[Section1]
+Somesetting=55
+Othersetting=1234
+Othersettingfoo=1234ygtyf
+[AnotherSection]
+Somesetting=barfoo
+Thirdsetting=9999
+FourSetting=this is a string with spaces
